@@ -4,32 +4,7 @@
       "url": "photos/rymin.jpg",
       "caption": "Андрей Румын когда был еще совсем маленьким",
       "date": "2013-08-03"
-    },
-    {
-      "url": "photos/photo2.jpg",
-      "caption": "Описание фото 2",
-      "date": "2025-04-28"
-    },
-    {
-      "url": "photos/photo3.jpg",
-      "caption": "Описание фото 3",
-      "date": "2025-04-15"
     }
   ],
-  "videos": [
-    {
-      "type": "youtube",
-      "id": "ВСТАВЬ_ID_ВИДЕО_СЮДА",
-      "title": "Название видео 1",
-      "thumbnail": "",
-      "date": "2025-05-01"
-    },
-    {
-      "type": "youtube",
-      "id": "ВСТАВЬ_ID_ВИДЕО_СЮДА",
-      "title": "Название видео 2",
-      "thumbnail": "",
-      "date": "2025-04-20"
-    }
-  ]
+  "videos": []
 }
